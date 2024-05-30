@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\projects\\ProjectBench\\Kafka\\learn-apache-kafka-for-dotnet-developers-exercises\\exercises\\HeartRateZoneService\\HeartRateZoneService.csproj": {}
+  },
+  "projects": {
+    "c:\\projects\\ProjectBench\\Kafka\\learn-apache-kafka-for-dotnet-developers-exercises\\exercises\\HeartRateZoneService\\HeartRateZoneService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\projects\\ProjectBench\\Kafka\\learn-apache-kafka-for-dotnet-developers-exercises\\exercises\\HeartRateZoneService\\HeartRateZoneService.csproj",
+        "projectName": "HeartRateZoneService",
+        "projectPath": "c:\\projects\\ProjectBench\\Kafka\\learn-apache-kafka-for-dotnet-developers-exercises\\exercises\\HeartRateZoneService\\HeartRateZoneService.csproj",
+        "packagesPath": "C:\\Users\\vdoddama\\.nuget\\packages\\",
+        "outputPath": "c:\\projects\\ProjectBench\\Kafka\\learn-apache-kafka-for-dotnet-developers-exercises\\exercises\\HeartRateZoneService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vdoddama\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.9.3, )"
+            },
+            "Confluent.SchemaRegistry": {
+              "target": "Package",
+              "version": "[1.9.3, )"
+            },
+            "Confluent.SchemaRegistry.Serdes.Json": {
+              "target": "Package",
+              "version": "[1.9.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

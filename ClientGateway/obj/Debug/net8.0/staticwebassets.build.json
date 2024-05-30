@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IZ4KZoeyK1yeAlOO8I2NlucS92PJVKc6HucG3Ew0/Ng=",
+  "Source": "ClientGateway",
+  "BasePath": "_content/ClientGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

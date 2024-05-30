@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cxnpyNrXFkpSW/Jq6NS6NX0GQx+ldsmAeZ4N9wZ7VB4=",
+  "Source": "HeartRateZoneService",
+  "BasePath": "_content/HeartRateZoneService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
